@@ -1,9 +1,10 @@
-## Converter
+## Text To Audio
 
-This is an functional online tool that allows user to convert image to text
+This is an functional tool that allows user to read text
 
-Power by Tesseract
-[live][Converter]
+Power by Responsive Voice
 
-[Converter]:
-https://zidianlyu.github.io/Converter-Demo/
+[live][TxtToAud]
+
+[TxtToAud]:
+https://zidianlyu.github.io/TxtToAud/
